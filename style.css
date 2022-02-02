@@ -118,6 +118,7 @@ section .main .languages li
    list-style: none;
    margin: 0 5px;
    font-size: 13px;
+   text-indent: -9999px
 }
 section .main .languages li a
 {
