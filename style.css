@@ -56,7 +56,7 @@ section .main
 {
    width: 580px;
    display: flex;
-   flex-direction: colum;
+   flex-direction: column;
    align-items: center;
    justify-content: center;
 }
