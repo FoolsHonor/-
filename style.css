@@ -142,7 +142,7 @@ section .footer .row
    padding: 15px 25px;
    border-top: 1px solid rgba(0,0,0,0.05);
 }
-section .footer .row.row1 p
+section .footer .row.row1 .country
 {
    color: #5f6368;
 }
