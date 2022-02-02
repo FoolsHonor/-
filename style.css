@@ -174,3 +174,8 @@ section .footer .row.row2 ul:nth-child(2) li a
    margin-right: 0px;
    margin-left: 25px;
 }
+.dark-mode
+{
+  background-color: black;
+  color: white;
+}
